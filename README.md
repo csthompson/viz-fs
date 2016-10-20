@@ -14,4 +14,4 @@ python vis-fs.py -r / -d 1
 ```
 
 # Sample output:
-![Sample][https://raw.githubusercontent.com/csthompson/viz-fs/master/sample.tiff "Sample Output"]
+![Sample](https://raw.githubusercontent.com/csthompson/viz-fs/master/sample.tiff)
