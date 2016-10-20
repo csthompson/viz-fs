@@ -8,3 +8,7 @@ Python Graphviz: http://graphviz.readthedocs.io/en/latest/manual.html
 ```
 python vis-fs.py -r <root directory to start from> -d <depth to traverse as int>
 ```
+Example:
+```
+python vis-fs.py -r / -d 1
+```
